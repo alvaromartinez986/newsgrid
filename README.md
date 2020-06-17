@@ -1,3 +1,3 @@
 # Newsgrid
-Html and css exercise to manage grids. 
-See the page in https://github.com/alvaromartinez986/newsgrid 
+Html and css exercise to manage grids. \n
+See the page in https://alvaromartinez986.github.io/newsgrid/
